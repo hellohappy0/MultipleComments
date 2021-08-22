@@ -12,9 +12,9 @@ File Encoding         : 65001
 
 Date: 2019-07-26 12:12:26
 */
-create database commentSystem;
+CREATE DATABASE commentSystem;
 
-use commentSystem;
+USE commentSystem;
 
 SET FOREIGN_KEY_CHECKS=0;
 
